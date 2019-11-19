@@ -1,0 +1,102 @@
+main {
+	width: 400px;
+	margin: 0 auto;
+}
+
+
+.cell-one
+	{
+	background: tomato;
+	width: 200px;
+	height: 400px;
+	float: left;
+}
+.cell-two
+{
+	background: darkslateblue;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.cell-three
+{
+	background: lightcyan;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.cell-four
+{
+	background: darkslateblue;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.cell-five
+	{
+	background: cadetblue;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.cell-six
+	{
+	background: lightcyan;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.cell-seven
+	{
+	background: tomato;
+	width: 200px;
+	height: 400px;
+	float: right;
+}
+.cell-eight
+	{
+	background: cadetblue;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.border-group
+{
+	border-width: 10px;
+	border-style: solid;
+	border-color: gainsboro;
+	width: 400px;
+	height: 1000px;
+}
+.cell-group
+	{
+
+	width: 400px;
+	height: 400px;
+}
+.emphasize-me-sf
+{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	padding: 0px 10px 0px 10px;
+	}
+.emphasize-me-bg
+{
+	font-family: serif;
+	font-size: 26px;
+	padding-top: 0px;
+}
+p
+	{
+		padding: 40px 20px 0px 20px;
+		font-family: 'Quattrocento', serif;
+		font-size: 16px;
+		text-align: center;
+
+		}
+span
+{
+
+	font-family: 'Oswald', sans-serif;
+}
